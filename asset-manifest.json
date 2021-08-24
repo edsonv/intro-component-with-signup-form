@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/intro-component-with-signup-form/static/css/main.3914a9d7.chunk.css",
-    "main.js": "/intro-component-with-signup-form/static/js/main.e2375cf2.chunk.js",
-    "main.js.map": "/intro-component-with-signup-form/static/js/main.e2375cf2.chunk.js.map",
-    "runtime-main.js": "/intro-component-with-signup-form/static/js/runtime-main.24315663.js",
-    "runtime-main.js.map": "/intro-component-with-signup-form/static/js/runtime-main.24315663.js.map",
-    "static/js/2.3a410d1d.chunk.js": "/intro-component-with-signup-form/static/js/2.3a410d1d.chunk.js",
-    "static/js/2.3a410d1d.chunk.js.map": "/intro-component-with-signup-form/static/js/2.3a410d1d.chunk.js.map",
-    "static/js/3.76d910d2.chunk.js": "/intro-component-with-signup-form/static/js/3.76d910d2.chunk.js",
-    "static/js/3.76d910d2.chunk.js.map": "/intro-component-with-signup-form/static/js/3.76d910d2.chunk.js.map",
+    "main.css": "/intro-component-with-signup-form/static/css/main.b50fc540.chunk.css",
+    "main.js": "/intro-component-with-signup-form/static/js/main.7a7bc61d.chunk.js",
+    "main.js.map": "/intro-component-with-signup-form/static/js/main.7a7bc61d.chunk.js.map",
+    "runtime-main.js": "/intro-component-with-signup-form/static/js/runtime-main.4c24c19a.js",
+    "runtime-main.js.map": "/intro-component-with-signup-form/static/js/runtime-main.4c24c19a.js.map",
+    "static/js/2.73ef39cb.chunk.js": "/intro-component-with-signup-form/static/js/2.73ef39cb.chunk.js",
+    "static/js/2.73ef39cb.chunk.js.map": "/intro-component-with-signup-form/static/js/2.73ef39cb.chunk.js.map",
+    "static/js/3.0b101c0e.chunk.js": "/intro-component-with-signup-form/static/js/3.0b101c0e.chunk.js",
+    "static/js/3.0b101c0e.chunk.js.map": "/intro-component-with-signup-form/static/js/3.0b101c0e.chunk.js.map",
     "index.html": "/intro-component-with-signup-form/index.html",
-    "static/css/main.3914a9d7.chunk.css.map": "/intro-component-with-signup-form/static/css/main.3914a9d7.chunk.css.map",
-    "static/js/2.3a410d1d.chunk.js.LICENSE.txt": "/intro-component-with-signup-form/static/js/2.3a410d1d.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/intro-component-with-signup-form/static/media/bg-intro-mobile.02ce3982.png"
+    "static/css/main.b50fc540.chunk.css.map": "/intro-component-with-signup-form/static/css/main.b50fc540.chunk.css.map",
+    "static/js/2.73ef39cb.chunk.js.LICENSE.txt": "/intro-component-with-signup-form/static/js/2.73ef39cb.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/intro-component-with-signup-form/static/media/icomoon.caad0266.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.24315663.js",
-    "static/js/2.3a410d1d.chunk.js",
-    "static/css/main.3914a9d7.chunk.css",
-    "static/js/main.e2375cf2.chunk.js"
+    "static/js/runtime-main.4c24c19a.js",
+    "static/js/2.73ef39cb.chunk.js",
+    "static/css/main.b50fc540.chunk.css",
+    "static/js/main.7a7bc61d.chunk.js"
   ]
 }
