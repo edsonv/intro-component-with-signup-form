@@ -16,10 +16,10 @@ $bg-mobile: url('../images/bg-intro-mobile.png');
   padding: 0;
   line-height: 1;
   box-sizing: border-box;
+  font-family: $font-family-sans-serif;
+  font-size: $root-font-size;
 }
 
 :root {
-  font-family: $font-family-sans-serif;
-  font-size: $root-font-size;
   background-color: $red;
 }

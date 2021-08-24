@@ -74,65 +74,55 @@ body {
     transform: translate(-50%, -50%);
     width: 100%;
     max-width: 200px;
+    // padding: 0 28px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  body {
+    padding: 120px 160px;
+    background-image: $bg-desktop;
   }
 
-  > .form {
-    display: flex;
-    flex-direction: column;
-    padding: 24px;
-    background-color: $white;
-    border-radius: 10px;
-    width: 100%;
-    max-width: 328px;
-    align-items: center;
+  .hero-section {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1;
+    grid-template-areas: 
+      "header promo";
+    gap: 40px;
   }
 
-  > .form > .input {
-    height: 58px;
-    border: 2px solid $grayish-blue;
-    border-radius: 10px;
-    padding: 0 24px;
-    color: $dark-blue;
-    margin-bottom: 13px;
-    width: 100%;
-    max-width: 280px;
+  .header {
+    justify-content: center;
+    align-items: start;
+
+    > .title {
+      font-size: 45px;
+      text-align: left;
+      max-width: 390px;
+      line-height: 1.10;
+      letter-spacing: -0.51px;
+      margin-bottom: 43px;
+    }
+
+    > .lead {
+      text-align: left;
+      max-width: 510px;
+      line-height: 1.60;
+      letter-spacing: -0.22px;
+    }
   }
 
-  > .form > .input:focus-within {
-    outline: none;
-  }
+  .promo {
+    > .highlight-card {
+      max-width: 545px;
+      height: 62px;
+    }
 
-  > .form > .button.-submit {
-    width: 100%;
-    max-width: 280px;
-    height: 58px;
-    // font-size: 16px;
-    border: none;
-    border-radius: 10px;
-    background-color: $green;
-    margin-bottom: 12px;
-    color: $white;
-  }
+    > .highlight-card > .title {
+      max-width: unset;
+    }
 
-  > .form > .button.-submit:focus-within {
-    outline: none;
+    
   }
-
-  > .form > .small {
-    font-size: 10px;
-    color: $grayish-blue;
-    line-height: 1.85;
-    max-width: 230px;
-    text-align: center;
-  }
-
-  > .form > .small > .link {
-    color: $red;
-    text-decoration: none;
-  }
-
-  > .form > .small .link.-bold:hover {
-    text-decoration: underline;
-  }
-
 }

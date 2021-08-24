@@ -1,4 +1,4 @@
-
+import Form from '../components/Form'
 const Home = () => {
   return (
     <>
@@ -12,14 +12,7 @@ const Home = () => {
           <div className="highlight-card">
             <h2 className="title -regular"><b className="-bold">Try it free 7 days</b> then $20/mo. thereafter</h2>
           </div>
-          <form action="" className="form">
-            <input className="input" type="text" name="name" id="" placeholder="First Name" />
-            <input className="input" type="text" name="lastname" id="" placeholder="Last Name" />
-            <input className="input" type="email" name="" id="" placeholder="Email Address" />
-            <input className="input" type="password" name="" id="" placeholder="Password" />
-            <button type="submit" className="button -submit -bold -uppercase">Claim your free trial</button>
-            <small className="small -semiBold">By clicking the button, you are agreeing to our <a href="" className="link -bold">Terms and Services</a></small>
-          </form>
+          <Form />
         </div>
       </section>
     </>

@@ -3,7 +3,7 @@
 This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
-
+                                        
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
@@ -93,9 +93,14 @@ Use this section to outline areas that you want to continue focusing on in futur
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
+https://codepen.io/imsrk/pen/EGogqJ Float label css
+https://www.youtube.com/watch?v=HIFxC7Gkgfo React reusable form component
+https://stackoverflow.com/questions/8639282/notempty-css-selector-is-not-working
+https://hiddentao.com/archives/2019/03/22/react-usereducer-hook-for-form-handling
+https://www.youtube.com/watch?v=PKajaCvk1YI
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [How To Show Error Messages In HTML Forms - Simple Examples](https://code-boxx.com/show-error-messages-html-forms/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [CSS: Center text/image/div in middle of parent div (container) | CSS-WORKSHOP.COM](http://css-workshop.com/css-center-textimagediv-in-middle-of-parent-div-container/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
