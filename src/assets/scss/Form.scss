@@ -30,7 +30,7 @@
 
   > .label {
     position: absolute;
-    top: 50%;
+    top: 30px;
     left: 24px;
     transform: translateY(-50%);
     // padding: 0 24px;
@@ -68,11 +68,12 @@
     text-align: right;
     float: right;
     font-weight: 600;
+    margin-top: 5px;
   }
 
   > .icon-error {
     position: absolute;
-    top: 50%;
+    top: 30px;
     transform: translateY(-50%);
     right: 24px;
     font-size: 20px;

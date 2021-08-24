@@ -45,7 +45,7 @@ const Form = () => {
         onChange={ handleChange }
         value={ values.EmailAddress }
         validators={ [
-          { check: Validators.required, message: "Email Address cannot be empty" },
+          { check: Validators.required, message: "Email Address cannot be empty." },
           { check: Validators.email, message: "Looks like this is not an email." }
         ] }
       />
